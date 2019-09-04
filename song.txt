@@ -3,9 +3,4 @@ Song Song
 Song 2 
 song 3
 asdasdasd1
-<<<<<<< HEAD
-asdasdasd
-asdad1
-=======
-asdasdasd
->>>>>>> feature
+test2
